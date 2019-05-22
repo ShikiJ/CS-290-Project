@@ -1,6 +1,4 @@
-function showbar(){
-    document.getElementById("sidebar").classList.toggle('active');
-}
+
 /************************************************************************ */
 /* for slide Show */
 var slideIndex = 0;
